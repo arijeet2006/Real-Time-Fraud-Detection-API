@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+category-encoders
+xgboost
+joblib
+redis
+kafka-python
