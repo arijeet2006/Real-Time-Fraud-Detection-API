@@ -16,10 +16,6 @@
 
 ```
 
-
-██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 85% Training Complete
-```
-
 This project implements a production-ready **fraud detection system** using machine learning and real-time streaming analytics. It processes transaction data through Kafka, applies feature engineering, and predicts fraudulent transactions using XGBoost.
 
 ---
@@ -204,6 +200,6 @@ MIT License - See [LICENSE](LICENSE) for details
 
 <div align="center">
 
-Made with ❤️ by the Fraud Detection Team
+Made with ❤️ by Arijeet
 
 </div>
